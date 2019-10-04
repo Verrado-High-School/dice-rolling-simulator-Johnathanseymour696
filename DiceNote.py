@@ -1,3 +1,5 @@
+#Johnathan Seymour
+#p1
 import random
 roll = int(input("How many times do you want to roll the dice? "))
 count = 0
