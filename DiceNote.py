@@ -35,3 +35,16 @@ print("3s: " + str(threes))
 print("4s: " + str(fours))
 print("5s: " + str(fives))
 print("6s: " + str(sixes))
+percentone = 100/roll* ones
+percenttwo = 100/roll* twos
+percentthree = 100/roll* threes
+percentfour = 100/roll* fours
+percentfive = 100/roll* fives
+percentsix = 100/roll* sixes
+print("Percents:")
+print("1s" + str(percentone) + "%")
+print("2s: " + str(percenttwo) + "%")
+print("3s: " + str(percentthree) + "%")
+print("4s: " + str(percentfour) + "%")
+print("5s: " + str(percentfive) + "%")
+print("6s: " + str(percentsix) + "%")
